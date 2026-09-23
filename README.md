@@ -16,6 +16,6 @@ python rainbow_spiral.py
 
 Just open `index.html` in any browser — a single file, no dependencies, no build step. The drawing is recomputed and animated live on a full-viewport canvas.
 
-## Provenance
+## Credits
 
-Original script by @programwith.fun — web port added so it runs in the browser.
+Created by **Erion Nezha** — original Python turtle script plus the animated web port.
